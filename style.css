@@ -13,7 +13,7 @@ body {
   width: 100%;
   max-width: none;
   margin: 0;
-  background: #0b1220;
+  background: red
   padding: 32px 40px;
   border-radius: 0;
   box-shadow: none;
@@ -115,6 +115,7 @@ input[type="checkbox"] {
 .day-complete {
   background: rgba(34,197,94,0.15) !important;
 }
+
 
 
 
